@@ -1,0 +1,30 @@
+
+.img{
+    width: 30px;
+}
+nav{
+    box-shadow: 3px 3px 30px #8e8d8d4e;
+}
+ul li{
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+}
+
+.content li a{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 2px 0;
+    display: inline-block;
+    transition: 0.5s;
+}
+.content  li:hover a{
+    color: black;
+    background-color: aqua;
+}
+.card-header h4 .ig{
+    width: 40px;
+    height: 30px;
+}
